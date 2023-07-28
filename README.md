@@ -1,2 +1,5 @@
-# myPHP
- PHP test, don't copy it!!
+Just PHP testing
+
+
+## don't copy it :v
+still studying...
