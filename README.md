@@ -1,5 +1,4 @@
 Just PHP testing
 
 
-## don't copy it :v
-still studying...
+**don't copy it**, still studying...
